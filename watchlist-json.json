@@ -1,0 +1,1730 @@
+[
+  {
+    "Name": "Mean Streets",
+    "Year": 1973
+  },
+  {
+    "Name": "The Color of Money",
+    "Year": 1986
+  },
+  {
+    "Name": "Indiana Jones and the Temple of Doom",
+    "Year": 1984
+  },
+  {
+    "Name": "Indiana Jones and the Last Crusade",
+    "Year": 1989
+  },
+  {
+    "Name": "Gangs of New York",
+    "Year": 2002
+  },
+  {
+    "Name": "Days of Heaven",
+    "Year": 1978
+  },
+  {
+    "Name": "Badlands",
+    "Year": 1973
+  },
+  {
+    "Name": "The Tree of Life",
+    "Year": 2011
+  },
+  {
+    "Name": "Saving Private Ryan",
+    "Year": 1998
+  },
+  {
+    "Name": "The Aviator",
+    "Year": 2004
+  },
+  {
+    "Name": "A.I. Artificial Intelligence",
+    "Year": 2001
+  },
+  {
+    "Name": "The Age of Innocence",
+    "Year": 1993
+  },
+  {
+    "Name": "Schindler's List",
+    "Year": 1993
+  },
+  {
+    "Name": "Jaws",
+    "Year": 1975
+  },
+  {
+    "Name": "Hugo",
+    "Year": 2011
+  },
+  {
+    "Name": "Jurassic Park",
+    "Year": 1993
+  },
+  {
+    "Name": "After Hours",
+    "Year": 1985
+  },
+  {
+    "Name": "Knight of Cups",
+    "Year": 2015
+  },
+  {
+    "Name": "The Thin Red Line",
+    "Year": 1998
+  },
+  {
+    "Name": "Raging Bull",
+    "Year": 1980
+  },
+  {
+    "Name": "The New World",
+    "Year": 2005
+  },
+  {
+    "Name": "The Grand Budapest Hotel",
+    "Year": 2014
+  },
+  {
+    "Name": "Inherent Vice",
+    "Year": 2014
+  },
+  {
+    "Name": "Alien",
+    "Year": 1979
+  },
+  {
+    "Name": "Death Proof",
+    "Year": 2007
+  },
+  {
+    "Name": "Spartacus",
+    "Year": 1960
+  },
+  {
+    "Name": "127 Hours",
+    "Year": 2010
+  },
+  {
+    "Name": "Paths of Glory",
+    "Year": 1957
+  },
+  {
+    "Name": "The Curious Case of Benjamin Button",
+    "Year": 2008
+  },
+  {
+    "Name": "Thelma & Louise",
+    "Year": 1991
+  },
+  {
+    "Name": "Kill Bill: Vol. 2",
+    "Year": 2004
+  },
+  {
+    "Name": "Boogie Nights",
+    "Year": 1997
+  },
+  {
+    "Name": "Panic Room",
+    "Year": 2002
+  },
+  {
+    "Name": "Sunshine",
+    "Year": 2007
+  },
+  {
+    "Name": "Bottle Rocket",
+    "Year": 1996
+  },
+  {
+    "Name": "Jackie Brown",
+    "Year": 1997
+  },
+  {
+    "Name": "The Life Aquatic with Steve Zissou",
+    "Year": 2004
+  },
+  {
+    "Name": "Lolita",
+    "Year": 1962
+  },
+  {
+    "Name": "Rushmore",
+    "Year": 1998
+  },
+  {
+    "Name": "Barry Lyndon",
+    "Year": 1975
+  },
+  {
+    "Name": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+    "Year": 1964
+  },
+  {
+    "Name": "Magnolia",
+    "Year": 1999
+  },
+  {
+    "Name": "Biutiful",
+    "Year": 2010
+  },
+  {
+    "Name": "Waking Life",
+    "Year": 2001
+  },
+  {
+    "Name": "Raising Arizona",
+    "Year": 1987
+  },
+  {
+    "Name": "Miller's Crossing",
+    "Year": 1990
+  },
+  {
+    "Name": "Barton Fink",
+    "Year": 1991
+  },
+  {
+    "Name": "Boyhood",
+    "Year": 2014
+  },
+  {
+    "Name": "Interiors",
+    "Year": 1978
+  },
+  {
+    "Name": "21 Grams",
+    "Year": 2003
+  },
+  {
+    "Name": "Gladiator",
+    "Year": 2000
+  },
+  {
+    "Name": "A Scanner Darkly",
+    "Year": 2006
+  },
+  {
+    "Name": "Hannah and Her Sisters",
+    "Year": 1986
+  },
+  {
+    "Name": "Zelig",
+    "Year": 1983
+  },
+  {
+    "Name": "Manhattan",
+    "Year": 1979
+  },
+  {
+    "Name": "Black Hawk Down",
+    "Year": 2001
+  },
+  {
+    "Name": "Stardust Memories",
+    "Year": 1980
+  },
+  {
+    "Name": "O Brother, Where Art Thou?",
+    "Year": 2000
+  },
+  {
+    "Name": "Slacker",
+    "Year": 1990
+  },
+  {
+    "Name": "A Serious Man",
+    "Year": 2009
+  },
+  {
+    "Name": "Babel",
+    "Year": 2006
+  },
+  {
+    "Name": "The Hudsucker Proxy",
+    "Year": 1994
+  },
+  {
+    "Name": "Gran Torino",
+    "Year": 2008
+  },
+  {
+    "Name": "Groundhog Day",
+    "Year": 1993
+  },
+  {
+    "Name": "Incendies",
+    "Year": 2010
+  },
+  {
+    "Name": "The Terminator",
+    "Year": 1984
+  },
+  {
+    "Name": "Once Upon a Time in America",
+    "Year": 1984
+  },
+  {
+    "Name": "Hunger",
+    "Year": 2008
+  },
+  {
+    "Name": "The Elephant Man",
+    "Year": 1980
+  },
+  {
+    "Name": "Butch Cassidy and the Sundance Kid",
+    "Year": 1969
+  },
+  {
+    "Name": "Sin City",
+    "Year": 2005
+  },
+  {
+    "Name": "8Â_",
+    "Year": 1963
+  },
+  {
+    "Name": "The Good, the Bad and the Ugly",
+    "Year": 1966
+  },
+  {
+    "Name": "Eraserhead",
+    "Year": 1977
+  },
+  {
+    "Name": "The Bourne Ultimatum",
+    "Year": 2007
+  },
+  {
+    "Name": "A Fistful of Dollars",
+    "Year": 1964
+  },
+  {
+    "Name": "Eternal Sunshine of the Spotless Mind",
+    "Year": 2004
+  },
+  {
+    "Name": "Lawrence of Arabia",
+    "Year": 1962
+  },
+  {
+    "Name": "For a Few Dollars More",
+    "Year": 1965
+  },
+  {
+    "Name": "Once Upon a Time in the West",
+    "Year": 1968
+  },
+  {
+    "Name": "Wild Tales",
+    "Year": 2014
+  },
+  {
+    "Name": "12 Years a Slave",
+    "Year": 2013
+  },
+  {
+    "Name": "Rocky",
+    "Year": 1976
+  },
+  {
+    "Name": "Twelve Monkeys",
+    "Year": 1995
+  },
+  {
+    "Name": "Infernal Affairs",
+    "Year": 2002
+  },
+  {
+    "Name": "Goldfinger",
+    "Year": 1964
+  },
+  {
+    "Name": "La Dolce Vita",
+    "Year": 1960
+  },
+  {
+    "Name": "On Her Majesty's Secret Service",
+    "Year": 1969
+  },
+  {
+    "Name": "Paprika",
+    "Year": 2006
+  },
+  {
+    "Name": "Akira",
+    "Year": 1988
+  },
+  {
+    "Name": "Merry Christmas Mr. Lawrence",
+    "Year": 1983
+  },
+  {
+    "Name": "Casablanca",
+    "Year": 1942
+  },
+  {
+    "Name": "M",
+    "Year": 1931
+  },
+  {
+    "Name": "The Man Who Would Be King",
+    "Year": 1975
+  },
+  {
+    "Name": "Enter the Void",
+    "Year": 2009
+  },
+  {
+    "Name": "Koyaanisqatsi",
+    "Year": 1982
+  },
+  {
+    "Name": "Howl's Moving Castle",
+    "Year": 2004
+  },
+  {
+    "Name": "The Lord of the Rings: The Two Towers",
+    "Year": 2002
+  },
+  {
+    "Name": "The Empire Strikes Back",
+    "Year": 1980
+  },
+  {
+    "Name": "Return of the Jedi",
+    "Year": 1983
+  },
+  {
+    "Name": "GoldenEye",
+    "Year": 1995
+  },
+  {
+    "Name": "Dr. No",
+    "Year": 1962
+  },
+  {
+    "Name": "Star Wars",
+    "Year": 1977
+  },
+  {
+    "Name": "Kids",
+    "Year": 1995
+  },
+  {
+    "Name": "AmÃ©lie",
+    "Year": 2001
+  },
+  {
+    "Name": "Tokyo Godfathers",
+    "Year": 2003
+  },
+  {
+    "Name": "Perfect Blue",
+    "Year": 1997
+  },
+  {
+    "Name": "Crank",
+    "Year": 2006
+  },
+  {
+    "Name": "Room",
+    "Year": 2015
+  },
+  {
+    "Name": "Hotel Rwanda",
+    "Year": 2004
+  },
+  {
+    "Name": "Seven Samurai",
+    "Year": 1954
+  },
+  {
+    "Name": "Terminator 2: Judgment Day",
+    "Year": 1991
+  },
+  {
+    "Name": "Memories of Murder",
+    "Year": 2003
+  },
+  {
+    "Name": "Unforgiven",
+    "Year": 1992
+  },
+  {
+    "Name": "High Noon",
+    "Year": 1952
+  },
+  {
+    "Name": "The Martian",
+    "Year": 2015
+  },
+  {
+    "Name": "Mary and Max",
+    "Year": 2009
+  },
+  {
+    "Name": "The Princess Bride",
+    "Year": 1987
+  },
+  {
+    "Name": "Serpico",
+    "Year": 1973
+  },
+  {
+    "Name": "Pan's Labyrinth",
+    "Year": 2006
+  },
+  {
+    "Name": "Die Hard",
+    "Year": 1988
+  },
+  {
+    "Name": "Spring, Summer, Fall, Winter... and Spring",
+    "Year": 2003
+  },
+  {
+    "Name": "Heat",
+    "Year": 1995
+  },
+  {
+    "Name": "The Lobster",
+    "Year": 2015
+  },
+  {
+    "Name": "Princess Mononoke",
+    "Year": 1997
+  },
+  {
+    "Name": "Spotlight",
+    "Year": 2015
+  },
+  {
+    "Name": "Ip Man",
+    "Year": 2008
+  },
+  {
+    "Name": "The Assassination of Jesse James by the Coward Robert Ford",
+    "Year": 2007
+  },
+  {
+    "Name": "Wedding Crashers",
+    "Year": 2005
+  },
+  {
+    "Name": "Melancholia",
+    "Year": 2011
+  },
+  {
+    "Name": "Mommy",
+    "Year": 2014
+  },
+  {
+    "Name": "Holes",
+    "Year": 2003
+  },
+  {
+    "Name": "Donnie Brasco",
+    "Year": 1997
+  },
+  {
+    "Name": "Yojimbo",
+    "Year": 1961
+  },
+  {
+    "Name": "Falling Down",
+    "Year": 1993
+  },
+  {
+    "Name": "Ronin",
+    "Year": 1998
+  },
+  {
+    "Name": "The Revenant",
+    "Year": 2015
+  },
+  {
+    "Name": "Colossus: The Forbin Project",
+    "Year": 1970
+  },
+  {
+    "Name": "You Can Count on Me",
+    "Year": 2000
+  },
+  {
+    "Name": "Swiss Army Man",
+    "Year": 2016
+  },
+  {
+    "Name": "Powaqqatsi",
+    "Year": 1988
+  },
+  {
+    "Name": "Cast Away",
+    "Year": 2000
+  },
+  {
+    "Name": "Les MisÃ©rables",
+    "Year": 2012
+  },
+  {
+    "Name": "The Legend I",
+    "Year": 1993
+  },
+  {
+    "Name": "25th Hour",
+    "Year": 2002
+  },
+  {
+    "Name": "The Sacrifice",
+    "Year": 1986
+  },
+  {
+    "Name": "Solaris",
+    "Year": 1972
+  },
+  {
+    "Name": "Pirates of the Caribbean: The Curse of the Black Pearl",
+    "Year": 2003
+  },
+  {
+    "Name": "Sleepers",
+    "Year": 1996
+  },
+  {
+    "Name": "Chinatown",
+    "Year": 1974
+  },
+  {
+    "Name": "The Message",
+    "Year": 1976
+  },
+  {
+    "Name": "Dog Day Afternoon",
+    "Year": 1975
+  },
+  {
+    "Name": "Nostalgia",
+    "Year": 1983
+  },
+  {
+    "Name": "The Battle of Algiers",
+    "Year": 1966
+  },
+  {
+    "Name": "Demolition",
+    "Year": 2015
+  },
+  {
+    "Name": "Stand by Me",
+    "Year": 1986
+  },
+  {
+    "Name": "Captain Fantastic",
+    "Year": 2016
+  },
+  {
+    "Name": "Personal Shopper",
+    "Year": 2016
+  },
+  {
+    "Name": "Bill & Ted's Excellent Adventure",
+    "Year": 1989
+  },
+  {
+    "Name": "What Ever Happened to Baby Jane?",
+    "Year": 1962
+  },
+  {
+    "Name": "Manchester by the Sea",
+    "Year": 2016
+  },
+  {
+    "Name": "Monster",
+    "Year": 2003
+  },
+  {
+    "Name": "Point Break",
+    "Year": 1991
+  },
+  {
+    "Name": "Sid & Nancy",
+    "Year": 1986
+  },
+  {
+    "Name": "Paris, Texas",
+    "Year": 1984
+  },
+  {
+    "Name": "The Wailing",
+    "Year": 2016
+  },
+  {
+    "Name": "Wish I Was Here",
+    "Year": 2014
+  },
+  {
+    "Name": "Sunset Boulevard",
+    "Year": 1950
+  },
+  {
+    "Name": "The King's Speech",
+    "Year": 2010
+  },
+  {
+    "Name": "Twin Peaks",
+    "Year": 1989
+  },
+  {
+    "Name": "Forgetting Sarah Marshall",
+    "Year": 2008
+  },
+  {
+    "Name": "Witness for the Prosecution",
+    "Year": 1957
+  },
+  {
+    "Name": "Sunrise: A Song of Two Humans",
+    "Year": 1927
+  },
+  {
+    "Name": "Double Indemnity",
+    "Year": 1944
+  },
+  {
+    "Name": "Bicycle Thieves",
+    "Year": 1948
+  },
+  {
+    "Name": "Shadow of a Doubt",
+    "Year": 1943
+  },
+  {
+    "Name": "Life Is Beautiful",
+    "Year": 1997
+  },
+  {
+    "Name": "The Birds",
+    "Year": 1963
+  },
+  {
+    "Name": "The Man Who Knew Too Much",
+    "Year": 1956
+  },
+  {
+    "Name": "The Third Man",
+    "Year": 1949
+  },
+  {
+    "Name": "Open Your Eyes",
+    "Year": 1997
+  },
+  {
+    "Name": "Synecdoche, New York",
+    "Year": 2008
+  },
+  {
+    "Name": "Citizen Kane",
+    "Year": 1941
+  },
+  {
+    "Name": "City Lights",
+    "Year": 1931
+  },
+  {
+    "Name": "Jane Eyre",
+    "Year": 2011
+  },
+  {
+    "Name": "Apocalypse Now",
+    "Year": 1979
+  },
+  {
+    "Name": "The Conformist",
+    "Year": 1970
+  },
+  {
+    "Name": "Adaptation.",
+    "Year": 2002
+  },
+  {
+    "Name": "Pride & Prejudice",
+    "Year": 2005
+  },
+  {
+    "Name": "In the Mood for Love",
+    "Year": 2000
+  },
+  {
+    "Name": "A Single Man",
+    "Year": 2009
+  },
+  {
+    "Name": "Vivre Sa Vie",
+    "Year": 1962
+  },
+  {
+    "Name": "Being John Malkovich",
+    "Year": 1999
+  },
+  {
+    "Name": "Mysterious Skin",
+    "Year": 2004
+  },
+  {
+    "Name": "The Untouchables",
+    "Year": 1987
+  },
+  {
+    "Name": "Train to Busan",
+    "Year": 2016
+  },
+  {
+    "Name": "CafÃ© de Flore",
+    "Year": 2011
+  },
+  {
+    "Name": "Masculin FÃ©minin",
+    "Year": 1966
+  },
+  {
+    "Name": "The Man from Nowhere",
+    "Year": 2010
+  },
+  {
+    "Name": "Breathless",
+    "Year": 1960
+  },
+  {
+    "Name": "SubUrbia",
+    "Year": 1996
+  },
+  {
+    "Name": "Moon",
+    "Year": 2009
+  },
+  {
+    "Name": "The Great Escape",
+    "Year": 1963
+  },
+  {
+    "Name": "The First Great Train Robbery",
+    "Year": 1978
+  },
+  {
+    "Name": "The Big Boss",
+    "Year": 1971
+  },
+  {
+    "Name": "Harold & Kumar Go to White Castle",
+    "Year": 2004
+  },
+  {
+    "Name": "Elle",
+    "Year": 2016
+  },
+  {
+    "Name": "Kiss Kiss Bang Bang",
+    "Year": 2005
+  },
+  {
+    "Name": "A Nightmare on Elm Street",
+    "Year": 1984
+  },
+  {
+    "Name": "Twin Peaks: The Return",
+    "Year": 2017
+  },
+  {
+    "Name": "Son of Rambow",
+    "Year": 2007
+  },
+  {
+    "Name": "Gummo",
+    "Year": 1997
+  },
+  {
+    "Name": "Scream",
+    "Year": 1996
+  },
+  {
+    "Name": "Your Name.",
+    "Year": 2016
+  },
+  {
+    "Name": "Cinderella",
+    "Year": 2015
+  },
+  {
+    "Name": "The Garden of Words",
+    "Year": 2013
+  },
+  {
+    "Name": "Nocturama",
+    "Year": 2016
+  },
+  {
+    "Name": "The Way of the Dragon",
+    "Year": 1972
+  },
+  {
+    "Name": "Dawn of the Dead",
+    "Year": 2004
+  },
+  {
+    "Name": "The Green Mile",
+    "Year": 1999
+  },
+  {
+    "Name": "The Wrestler",
+    "Year": 2008
+  },
+  {
+    "Name": "The Fountain",
+    "Year": 2006
+  },
+  {
+    "Name": "The Evil Dead",
+    "Year": 1981
+  },
+  {
+    "Name": "Fracture",
+    "Year": 2007
+  },
+  {
+    "Name": "Gifted",
+    "Year": 2017
+  },
+  {
+    "Name": "Raw",
+    "Year": 2016
+  },
+  {
+    "Name": "Bad Santa",
+    "Year": 2003
+  },
+  {
+    "Name": "Down by Law",
+    "Year": 1986
+  },
+  {
+    "Name": "Permanent Vacation",
+    "Year": 1980
+  },
+  {
+    "Name": "Green Room",
+    "Year": 2015
+  },
+  {
+    "Name": "A Walk to Remember",
+    "Year": 2002
+  },
+  {
+    "Name": "The Animatrix",
+    "Year": 2003
+  },
+  {
+    "Name": "The Handmaiden",
+    "Year": 2016
+  },
+  {
+    "Name": "Brazil",
+    "Year": 1985
+  },
+  {
+    "Name": "An American Werewolf in London",
+    "Year": 1981
+  },
+  {
+    "Name": "Hollywood Ending",
+    "Year": 2002
+  },
+  {
+    "Name": "A Ghost Story",
+    "Year": 2017
+  },
+  {
+    "Name": "Antichrist",
+    "Year": 2009
+  },
+  {
+    "Name": "Vanishing Point",
+    "Year": 1971
+  },
+  {
+    "Name": "American Graffiti",
+    "Year": 1973
+  },
+  {
+    "Name": "To Live and Die in L.A.",
+    "Year": 1985
+  },
+  {
+    "Name": "The Driver",
+    "Year": 1978
+  },
+  {
+    "Name": "Youth",
+    "Year": 2015
+  },
+  {
+    "Name": "Bullitt",
+    "Year": 1968
+  },
+  {
+    "Name": "Mad Max",
+    "Year": 1979
+  },
+  {
+    "Name": "Lost Highway",
+    "Year": 1997
+  },
+  {
+    "Name": "Do the Right Thing",
+    "Year": 1989
+  },
+  {
+    "Name": "The Red Shoes",
+    "Year": 1948
+  },
+  {
+    "Name": "The Florida Project",
+    "Year": 2017
+  },
+  {
+    "Name": "The Nightmare Before Christmas",
+    "Year": 1993
+  },
+  {
+    "Name": "I, Daniel Blake",
+    "Year": 2016
+  },
+  {
+    "Name": "Good Burger",
+    "Year": 1997
+  },
+  {
+    "Name": "Cloverfield",
+    "Year": 2008
+  },
+  {
+    "Name": "Fruitvale Station",
+    "Year": 2013
+  },
+  {
+    "Name": "The Human Condition I: No Greater Love",
+    "Year": 1959
+  },
+  {
+    "Name": "Copenhagen",
+    "Year": 2014
+  },
+  {
+    "Name": "Funeral Parade of Roses",
+    "Year": 1969
+  },
+  {
+    "Name": "Old Yeller",
+    "Year": 1957
+  },
+  {
+    "Name": "The Duke of Burgundy",
+    "Year": 2014
+  },
+  {
+    "Name": "Heaven Knows What",
+    "Year": 2014
+  },
+  {
+    "Name": "Paterson",
+    "Year": 2016
+  },
+  {
+    "Name": "The Shape of Water",
+    "Year": 2017
+  },
+  {
+    "Name": "Primal Fear",
+    "Year": 1996
+  },
+  {
+    "Name": "Candy",
+    "Year": 2006
+  },
+  {
+    "Name": "Rashomon",
+    "Year": 1950
+  },
+  {
+    "Name": "Metropolis",
+    "Year": 1927
+  },
+  {
+    "Name": "Bring Me the Head of Alfredo Garcia",
+    "Year": 1974
+  },
+  {
+    "Name": "The Holy Mountain",
+    "Year": 1973
+  },
+  {
+    "Name": "ATL",
+    "Year": 2006
+  },
+  {
+    "Name": "Wild Strawberries",
+    "Year": 1957
+  },
+  {
+    "Name": "Un Chien Andalou",
+    "Year": 1929
+  },
+  {
+    "Name": "Happy Together",
+    "Year": 1997
+  },
+  {
+    "Name": "El Topo",
+    "Year": 1970
+  },
+  {
+    "Name": "Wild at Heart",
+    "Year": 1990
+  },
+  {
+    "Name": "Cinderella Man",
+    "Year": 2005
+  },
+  {
+    "Name": "The French Connection",
+    "Year": 1971
+  },
+  {
+    "Name": "Battleship Potemkin",
+    "Year": 1925
+  },
+  {
+    "Name": "The Passion of Anna",
+    "Year": 1969
+  },
+  {
+    "Name": "Fitzcarraldo",
+    "Year": 1982
+  },
+  {
+    "Name": "Battle Royale",
+    "Year": 2000
+  },
+  {
+    "Name": "On the Waterfront",
+    "Year": 1954
+  },
+  {
+    "Name": "The Discreet Charm of the Bourgeoisie",
+    "Year": 1972
+  },
+  {
+    "Name": "The Last Laugh",
+    "Year": 1924
+  },
+  {
+    "Name": "Scarface",
+    "Year": 1932
+  },
+  {
+    "Name": "Persona",
+    "Year": 1966
+  },
+  {
+    "Name": "The Deer Hunter",
+    "Year": 1978
+  },
+  {
+    "Name": "Coffee and Cigarettes",
+    "Year": 2003
+  },
+  {
+    "Name": "Only Lovers Left Alive",
+    "Year": 2013
+  },
+  {
+    "Name": "Woyzeck",
+    "Year": 1979
+  },
+  {
+    "Name": "Return to the 36th Chamber",
+    "Year": 1980
+  },
+  {
+    "Name": "Throne of Blood",
+    "Year": 1957
+  },
+  {
+    "Name": "The Light Between Oceans",
+    "Year": 2016
+  },
+  {
+    "Name": "Phantom of the Paradise",
+    "Year": 1974
+  },
+  {
+    "Name": "The Inauguration of the Pleasure Dome",
+    "Year": 1954
+  },
+  {
+    "Name": "Stranger Than Paradise",
+    "Year": 1984
+  },
+  {
+    "Name": "Comrades: Almost a Love Story",
+    "Year": 1996
+  },
+  {
+    "Name": "The Seventh Seal",
+    "Year": 1957
+  },
+  {
+    "Name": "The Friends of Eddie Coyle",
+    "Year": 1973
+  },
+  {
+    "Name": "The 36th Chamber of Shaolin",
+    "Year": 1978
+  },
+  {
+    "Name": "Malcolm X",
+    "Year": 1992
+  },
+  {
+    "Name": "WarGames",
+    "Year": 1983
+  },
+  {
+    "Name": "Rosemary's Baby",
+    "Year": 1968
+  },
+  {
+    "Name": "Unbreakable",
+    "Year": 2000
+  },
+  {
+    "Name": "The Five Venoms",
+    "Year": 1978
+  },
+  {
+    "Name": "Hellraiser",
+    "Year": 1987
+  },
+  {
+    "Name": "Sonatine",
+    "Year": 1993
+  },
+  {
+    "Name": "Ed Wood",
+    "Year": 1994
+  },
+  {
+    "Name": "Legendary Weapons of China",
+    "Year": 1982
+  },
+  {
+    "Name": "Pather Panchali",
+    "Year": 1955
+  },
+  {
+    "Name": "Five Fingers of Death",
+    "Year": 1972
+  },
+  {
+    "Name": "Elephant",
+    "Year": 2003
+  },
+  {
+    "Name": "Charulata",
+    "Year": 1964
+  },
+  {
+    "Name": "Crippled Avengers",
+    "Year": 1978
+  },
+  {
+    "Name": "Heathers",
+    "Year": 1988
+  },
+  {
+    "Name": "The Clan of the White Lotus",
+    "Year": 1980
+  },
+  {
+    "Name": "Lawless",
+    "Year": 2012
+  },
+  {
+    "Name": "The Hero",
+    "Year": 1966
+  },
+  {
+    "Name": "The World of Apu",
+    "Year": 1959
+  },
+  {
+    "Name": "The Big City",
+    "Year": 1963
+  },
+  {
+    "Name": "Aparajito",
+    "Year": 1956
+  },
+  {
+    "Name": "Kid with the Golden Arm",
+    "Year": 1979
+  },
+  {
+    "Name": "Master of the Flying Guillotine",
+    "Year": 1976
+  },
+  {
+    "Name": "Fury",
+    "Year": 2014
+  },
+  {
+    "Name": "Heroes of the East",
+    "Year": 1978
+  },
+  {
+    "Name": "Executioners from Shaolin",
+    "Year": 1977
+  },
+  {
+    "Name": "Eight Diagram Pole Fighter",
+    "Year": 1984
+  },
+  {
+    "Name": "Boudu Saved from Drowning",
+    "Year": 1932
+  },
+  {
+    "Name": "Bulletproof",
+    "Year": 1996
+  },
+  {
+    "Name": "Crouching Tiger, Hidden Dragon",
+    "Year": 2000
+  },
+  {
+    "Name": "Tyson",
+    "Year": 2008
+  },
+  {
+    "Name": "Hostiles",
+    "Year": 2017
+  },
+  {
+    "Name": "Johnny Guitar",
+    "Year": 1954
+  },
+  {
+    "Name": "Andrei Rublev",
+    "Year": 1966
+  },
+  {
+    "Name": "Shoplifters",
+    "Year": 2018
+  },
+  {
+    "Name": "You Ain't Seen Nothin' Yet",
+    "Year": 2012
+  },
+  {
+    "Name": "Night Is Short, Walk on Girl",
+    "Year": 2017
+  },
+  {
+    "Name": "Yi Yi",
+    "Year": 2000
+  },
+  {
+    "Name": "Mishima: A Life in Four Chapters",
+    "Year": 1985
+  },
+  {
+    "Name": "Close-Up",
+    "Year": 1990
+  },
+  {
+    "Name": "Shaolin Soccer",
+    "Year": 2001
+  },
+  {
+    "Name": "Taipei Story",
+    "Year": 1985
+  },
+  {
+    "Name": "Love Exposure",
+    "Year": 2008
+  },
+  {
+    "Name": "Lost and Beautiful",
+    "Year": 2015
+  },
+  {
+    "Name": "Blade of the Immortal",
+    "Year": 2017
+  },
+  {
+    "Name": "Montparnasse BienvenÃ_e",
+    "Year": 2017
+  },
+  {
+    "Name": "Chronicle of a Summer",
+    "Year": 1961
+  },
+  {
+    "Name": "Body Double",
+    "Year": 1984
+  },
+  {
+    "Name": "Certified Copy",
+    "Year": 2010
+  },
+  {
+    "Name": "eXistenZ",
+    "Year": 1999
+  },
+  {
+    "Name": "Histoire(s) du CinÃ©ma",
+    "Year": 1989
+  },
+  {
+    "Name": "Suburra",
+    "Year": 2015
+  },
+  {
+    "Name": "The Graduate",
+    "Year": 1967
+  },
+  {
+    "Name": "Beverly Hills Cop",
+    "Year": 1984
+  },
+  {
+    "Name": "Snowtown",
+    "Year": 2011
+  },
+  {
+    "Name": "The Babadook",
+    "Year": 2014
+  },
+  {
+    "Name": "Chopper",
+    "Year": 2000
+  },
+  {
+    "Name": "Killing Them Softly",
+    "Year": 2012
+  },
+  {
+    "Name": "Miami Vice",
+    "Year": 2006
+  },
+  {
+    "Name": "Calibre",
+    "Year": 2018
+  },
+  {
+    "Name": "Katie Says Goodbye",
+    "Year": 2016
+  },
+  {
+    "Name": "Irreversible",
+    "Year": 2002
+  },
+  {
+    "Name": "La JetÃ©e",
+    "Year": 1962
+  },
+  {
+    "Name": "Secret Sunshine",
+    "Year": 2007
+  },
+  {
+    "Name": "And Then There Were None",
+    "Year": 1945
+  },
+  {
+    "Name": "Charade",
+    "Year": 1963
+  },
+  {
+    "Name": "Jules and Jim",
+    "Year": 1962
+  },
+  {
+    "Name": "The 400 Blows",
+    "Year": 1959
+  },
+  {
+    "Name": "Alice Doesn't Live Here Anymore",
+    "Year": 1974
+  },
+  {
+    "Name": "The Witch",
+    "Year": 2015
+  },
+  {
+    "Name": "To Catch a Thief",
+    "Year": 1955
+  },
+  {
+    "Name": "Stalker",
+    "Year": 1979
+  },
+  {
+    "Name": "My Own Private Idaho",
+    "Year": 1991
+  },
+  {
+    "Name": "The Trouble with Harry",
+    "Year": 1955
+  },
+  {
+    "Name": "Breakfast at Tiffany's",
+    "Year": 1961
+  },
+  {
+    "Name": "The Wrong Man",
+    "Year": 1956
+  },
+  {
+    "Name": "The Lady Vanishes",
+    "Year": 1938
+  },
+  {
+    "Name": "Spellbound",
+    "Year": 1945
+  },
+  {
+    "Name": "Child's Play",
+    "Year": 1988
+  },
+  {
+    "Name": "Under the Silver Lake",
+    "Year": 2018
+  },
+  {
+    "Name": "Summer 1993",
+    "Year": 2017
+  },
+  {
+    "Name": "Minding the Gap",
+    "Year": 2018
+  },
+  {
+    "Name": "Leave No Trace",
+    "Year": 2018
+  },
+  {
+    "Name": "Suspicion",
+    "Year": 1941
+  },
+  {
+    "Name": "Life Itself",
+    "Year": 2018
+  },
+  {
+    "Name": "The Truth",
+    "Year": 1960
+  },
+  {
+    "Name": "Blindspotting",
+    "Year": 2018
+  },
+  {
+    "Name": "American Animals",
+    "Year": 2018
+  },
+  {
+    "Name": "The Road",
+    "Year": 2009
+  },
+  {
+    "Name": "Little Children",
+    "Year": 2006
+  },
+  {
+    "Name": "Zoe",
+    "Year": 2018
+  },
+  {
+    "Name": "Oasis",
+    "Year": 2002
+  },
+  {
+    "Name": "Burning",
+    "Year": 2018
+  },
+  {
+    "Name": "Poetry",
+    "Year": 2010
+  },
+  {
+    "Name": "Ã€ Nos Amours",
+    "Year": 1983
+  },
+  {
+    "Name": "Hearts Beat Loud",
+    "Year": 2018
+  },
+  {
+    "Name": "Peppermint Candy",
+    "Year": 1999
+  },
+  {
+    "Name": "A Prayer Before Dawn",
+    "Year": 2017
+  },
+  {
+    "Name": "Happiness",
+    "Year": 1998
+  },
+  {
+    "Name": "Garden State",
+    "Year": 2004
+  },
+  {
+    "Name": "Skate Kitchen",
+    "Year": 2018
+  },
+  {
+    "Name": "The Killer",
+    "Year": 1989
+  },
+  {
+    "Name": "Lilya 4-ever",
+    "Year": 2002
+  },
+  {
+    "Name": "Christiane F.",
+    "Year": 1981
+  },
+  {
+    "Name": "The Kindergarten Teacher",
+    "Year": 2018
+  },
+  {
+    "Name": "The Ring",
+    "Year": 2002
+  },
+  {
+    "Name": "Once",
+    "Year": 2007
+  },
+  {
+    "Name": "Love and Death",
+    "Year": 1975
+  },
+  {
+    "Name": "Double Lover",
+    "Year": 2017
+  },
+  {
+    "Name": "Point Blank",
+    "Year": 2010
+  },
+  {
+    "Name": "The Young Girls of Rochefort",
+    "Year": 1967
+  },
+  {
+    "Name": "House of Tolerance",
+    "Year": 2011
+  },
+  {
+    "Name": "BPM (Beats per Minute)",
+    "Year": 2017
+  },
+  {
+    "Name": "In the Fade",
+    "Year": 2017
+  },
+  {
+    "Name": "A Girl Walks Home Alone at Night",
+    "Year": 2014
+  },
+  {
+    "Name": "Loveless",
+    "Year": 2017
+  },
+  {
+    "Name": "Let the Sunshine In",
+    "Year": 2017
+  },
+  {
+    "Name": "Revenge",
+    "Year": 2017
+  },
+  {
+    "Name": "The Umbrellas of Cherbourg",
+    "Year": 1964
+  },
+  {
+    "Name": "Weekend",
+    "Year": 1967
+  },
+  {
+    "Name": "The Leopard",
+    "Year": 1963
+  },
+  {
+    "Name": "Godzilla",
+    "Year": 1954
+  },
+  {
+    "Name": "Mon Oncle",
+    "Year": 1958
+  },
+  {
+    "Name": "Outlaw King",
+    "Year": 2018
+  },
+  {
+    "Name": "La CiÃ©naga",
+    "Year": 2001
+  },
+  {
+    "Name": "Orpheus",
+    "Year": 1950
+  },
+  {
+    "Name": "Clouds of Sils Maria",
+    "Year": 2014
+  },
+  {
+    "Name": "Army of Shadows",
+    "Year": 1969
+  },
+  {
+    "Name": "Thunder Road",
+    "Year": 2018
+  },
+  {
+    "Name": "The Last Picture Show",
+    "Year": 1971
+  },
+  {
+    "Name": "Mustang",
+    "Year": 2015
+  },
+  {
+    "Name": "Lola",
+    "Year": 1961
+  },
+  {
+    "Name": "World on a Wire",
+    "Year": 1973
+  }
+]

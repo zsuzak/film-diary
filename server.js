@@ -9,6 +9,9 @@ let app = express();
 let json;
 let record;
 
+let json2;
+let record2;
+
 app.set('view-engine', 'hbs');
 
 app.use(express.static(__dirname + '/public'));
@@ -37,8 +40,33 @@ hbs.registerHelper('getTable', () => {
 	return html;
 });
 
+hbs.registerHelper('getWatchlist', () => {
+	var html2 = "<table> <thead> <tr> <th>Name</th> <th>Year</th> </tr> </thead> <tbody>";
+
+	fs.readFile('watchlist-json.json', (err, data) => {
+		if (err) throw err;
+		json2 = JSON.parse(data);
+	});
+
+	for (var j in json2) {
+		record2 = json2[j];
+		html2 += "<tr>";
+		html2 += `<td>${record2.Name}</td>`;
+		html2 += `<td>${record2.Year}</td>`;
+		html2 += "</tr>";
+	}
+
+	html2 += "</tbody> </table>";
+
+	return html2;
+})
+
 app.get('/', (req, res) => {
-	res.render('home.hbs')
+	res.render('home.hbs');
+});
+
+app.get('/watchlist', (req, res) => {
+	res.render('watchlist.hbs');
 });
 
 app.listen(port, () => {
