@@ -69,6 +69,10 @@ app.get('/watchlist', (req, res) => {
 	res.render('watchlist.hbs');
 });
 
+app.get('/grid', (req, res) => {
+	res.render('grid.hbs');
+});
+
 app.listen(port, () => {
 	console.log(`Server is up on port ${port}`);
 });
