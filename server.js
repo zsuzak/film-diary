@@ -6,15 +6,17 @@ const port = process.env.PORT || 3000;
 
 let app = express();
 
-let json;
-let record;
-
-let json2;
-let record2;
+hbs.registerPartials(__dirname + '/views/partials');
 
 app.set('view-engine', 'hbs');
 
 app.use(express.static(__dirname + '/public'));
+
+
+let json;
+let record;
+let json2;
+let record2;
 
 hbs.registerHelper('getTable', () => {
 	var html = "<table> <thead> <tr> <th>Watched</th> <th>Name</th> <th>Year</th> <th>Rating</th> <th>Rewatch</th> </tr> </thead> <tbody>";
@@ -60,6 +62,7 @@ hbs.registerHelper('getWatchlist', () => {
 
 	return html2;
 })
+
 
 app.get('/', (req, res) => {
 	res.render('home.hbs');

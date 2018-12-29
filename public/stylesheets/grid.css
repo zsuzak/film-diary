@@ -1,3 +1,9 @@
+body {
+	font-family: 'Helvetica';
+	text-transform: uppercase;
+	
+}
+
 div {
 	margin-left: auto;
 	margin-right: auto;
@@ -19,11 +25,27 @@ img.last {
 }
 
 h1 {
-	font-family: 'Helvetica';
-	text-transform: uppercase;
 	margin-top: 25px;
-	margin-bottom: 25px;
-	text-align: center;
+	margin-bottom: 0px;
 	font-weight: bold;
 	font-size: 20px;
+	padding: 0px;
+	text-align: center;
+}
+
+ul {
+	margin-top: 0px;
+	text-align: center;
+	padding: 0px;
+	margin-bottom: 25px;
+}
+
+li {
+  display: inline;
+  font-size: 10px;
+}
+
+a {
+	text-decoration: none;
+	color: black;
 }
