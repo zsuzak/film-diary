@@ -28,14 +28,28 @@ th, td {
 	font-size: 12px;
 }
 
-ul {
+ul.nav {
 	margin-top: 0px;
 	text-align: center;
 	padding: 0px;
 	margin-bottom: 25px;
 }
 
-li {
+.container {
+	text-align: center;
+	width: 50%;
+	margin: auto;
+}
+
+ul.lists {
+	margin-top: 0px;
+	display: inline-block;
+  	text-align: left;
+	list-style: none;
+	font-size: 12px;
+}
+
+ul.nav li {
   display: inline;
   font-size: 10px;
 }

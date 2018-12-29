@@ -72,8 +72,16 @@ app.get('/watchlist', (req, res) => {
 	res.render('watchlist.hbs');
 });
 
-app.get('/grid', (req, res) => {
-	res.render('grid.hbs');
+app.get('/2018favs', (req, res) => {
+	res.render('2018favs.hbs');
+});
+
+app.get('/2019anticipated', (req, res) => {
+	res.render('2019anticipated.hbs');
+});
+
+app.get('/lists', (req, res) => {
+	res.render('lists.hbs');
 });
 
 app.listen(port, () => {
