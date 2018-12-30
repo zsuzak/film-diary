@@ -35,18 +35,15 @@ ul.nav {
 	margin-bottom: 25px;
 }
 
-.container {
-	text-align: center;
-	width: 50%;
-	margin: auto;
-}
-
 ul.lists {
 	margin-top: 0px;
-	display: inline-block;
-  	text-align: left;
+	padding: 0px;
 	list-style: none;
 	font-size: 12px;
+}
+
+ul.lists li {
+	text-align: center;
 }
 
 ul.nav li {
