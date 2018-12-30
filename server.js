@@ -80,8 +80,8 @@ app.get('/2019anticipated', (req, res) => {
 	res.render('2019anticipated.hbs');
 });
 
-app.get('/lists', (req, res) => {
-	res.render('lists.hbs');
+app.get('/posts', (req, res) => {
+	res.render('posts.hbs');
 });
 
 app.listen(port, () => {
