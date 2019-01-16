@@ -1092,10 +1092,17 @@
     "Rewatch": ""
   },
   {
-    "Watched": "10/01/2019",
+    "Watched": "15/01/2019",
     "Name": "Suspiria",
     "Year": 2018,
     "Rating": 10,
+    "Rewatch": "Yes"
+  },
+  {
+    "Watched": "16/01/2019",
+    "Name": "The Usual Suspects",
+    "Year": 2018,
+    "Rating": 9,
     "Rewatch": "Yes"
   }
 ]
