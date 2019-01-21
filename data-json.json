@@ -1053,64 +1053,70 @@
     "Watched": "01/01/2019",
     "Name": "The Favourite",
     "Year": 2019,
-    "Rating": 8,
+    "Rating": 4,
     "Rewatch": ""
   },
   {
     "Watched": "02/01/2019",
     "Name": "Masculin Feminin",
     "Year": 1966,
-    "Rating": 9,
+    "Rating": 4.5,
     "Rewatch": ""
   },
   {
     "Watched": "06/01/2019",
     "Name": "Le Samourai",
     "Year": 1967,
-    "Rating": 8,
+    "Rating": 4,
     "Rewatch": ""
   },
   {
     "Watched": "06/01/2019",
     "Name": "Aquaman",
     "Year": 2018,
-    "Rating": 6,
+    "Rating": 3,
     "Rewatch": ""
   },
   {
     "Watched": "10/01/2019",
     "Name": "Vivre Sa Vie",
     "Year": 1962,
-    "Rating": 7,
+    "Rating": 3.5,
     "Rewatch": ""
   },
   {
     "Watched": "13/01/2019",
     "Name": "A Simple Favor",
     "Year": 2018,
-    "Rating": 7,
+    "Rating": 3.5,
     "Rewatch": ""
   },
   {
     "Watched": "15/01/2019",
     "Name": "Suspiria",
     "Year": 2018,
-    "Rating": 10,
+    "Rating": 5,
     "Rewatch": "Yes"
   },
   {
     "Watched": "16/01/2019",
     "Name": "The Usual Suspects",
     "Year": 1995,
-    "Rating": 9,
+    "Rating": 4.5,
     "Rewatch": "Yes"
   },
   {
     "Watched": "18/01/2019",
     "Name": "Unbreakable",
     "Year": 2000,
-    "Rating": 7,
+    "Rating": 3.5,
     "Rewatch": ""
-  }
-  
+  },
+  {
+    "Watched": "19/01/2019",
+    "Name": "Glass",
+    "Year": 2019,
+    "Rating": 4,
+    "Rewatch": ""
+  } 
 ]

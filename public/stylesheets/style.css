@@ -1,17 +1,30 @@
 body {
+	height: auto;
+	margin: 0;
+	width: 100%;
 	font-family: 'Helvetica';
-	text-transform: uppercase;
+	background-color: #ffffff;
+	border-width: 10px;
+    border-style: solid;
+    border-image: linear-gradient(to right, #dd0c07, #9a1426, #671324, #36111a, #000000) 1 ;
+    border-bottom-width: 0px;
+    border-left-width: 0px;
+    border-right-width: 0px;
 }
 
 h1 {
+	font-family: 'Garamond', 'Times', 'Times New Roman';
 	text-align: center;
-	margin-top: 25px;
+	text-transform: capitalize;
+	margin-top: 10px;
 	margin-bottom: 0px;
+	font-style: italic;
 	font-weight: bold;
 	font-size: 20px;
 }
 
 table {
+	text-transform: uppercase;
 	margin-left: auto;
 	margin-right: auto;
 	margin-bottom: 25px;
@@ -72,6 +85,7 @@ ul.nav li {
 }
 
 a {
+	text-transform: uppercase;
 	text-decoration: none;
 	color: black;
 	margin-bottom: 25px;

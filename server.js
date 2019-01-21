@@ -65,23 +65,23 @@ hbs.registerHelper('getWatchlist', () => {
 
 
 app.get('/', (req, res) => {
-	res.render('home.hbs', {pageTitle: 'ZSU FILM DIARY'});
+	res.render('home.hbs', {pageTitle: 'ZSU Film Diary'});
 });
 
 app.get('/watchlist', (req, res) => {
-	res.render('watchlist.hbs', {pageTitle: 'ZSU WATCHLIST'});
+	res.render('watchlist.hbs', {pageTitle: 'ZSU Watchlist'});
 });
 
 app.get('/2018favs', (req, res) => {
-	res.render('2018favs.hbs', {pageTitle: 'ZSU 2018 FAVOURITES'});
+	res.render('2018favs.hbs', {pageTitle: 'ZSU 2018 Favourites'});
 });
 
 app.get('/2019anticipated', (req, res) => {
-	res.render('2019anticipated.hbs', {pageTitle: 'ZSU 2019 ANTICIPATED'});
+	res.render('2019anticipated.hbs', {pageTitle: 'ZSU 2019 Anticipated'});
 });
 
 app.get('/posts', (req, res) => {
-	res.render('posts.hbs', {pageTitle: 'ZSU POSTS'});
+	res.render('posts.hbs', {pageTitle: 'ZSU Posts'});
 });
 
 app.listen(port, () => {
