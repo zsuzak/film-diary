@@ -9,7 +9,8 @@ body {
     border-image: linear-gradient(to right, #dd0c07, #9a1426, #671324, #36111a, #000000) 1 ;
     border-bottom-width: 0px;
     border-left-width: 0px;
-    border-right-width: 0px;
+	border-right-width: 0px;
+	overflow: hidden;
 }
 
 h1 {
