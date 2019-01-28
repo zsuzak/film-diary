@@ -1125,5 +1125,33 @@
     "Year": 1968,
     "Rating": 6,
     "Rewatch": ""
-  } 
+  }, 
+  {
+    "Watched": "22/01/2019",
+    "Name": "The Killing",
+    "Year": 1956,
+    "Rating": 7,
+    "Rewatch": ""
+  },
+  {
+    "Watched": "25/01/2019",
+    "Name": "Vice",
+    "Year": 2018,
+    "Rating": 8,
+    "Rewatch": ""
+  },
+  {
+    "Watched": "27/01/2019",
+    "Name": "Suspiria",
+    "Year": 2018,
+    "Rating": 10,
+    "Rewatch": "Yes"
+  },
+  {
+    "Watched": "27/01/2019",
+    "Name": "Hot Fuzz",
+    "Year": 2007,
+    "Rating": 8,
+    "Rewatch": "Yes"
+  }
 ]
