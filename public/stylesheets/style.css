@@ -20,13 +20,13 @@ body {
 }
 
 h1 {
-	font-family: 'Garamond', 'Times', 'Times New Roman';
+	font-family: 'Baskerville Old Face', 'Garamond', 'Times New Roman', 'Times';
 	text-align: center;
 	text-transform: capitalize;
 	margin-top: 10px;
 	margin-bottom: 0px;
 	font-style: italic;
-	font-weight: bold;
+	font-weight: normal;
 	font-size: 20px;
 }
 
@@ -88,7 +88,9 @@ ul.lists li {
 
 ul.nav li {
   display: inline;
-  font-size: 10px;
+  font-size: 11px;
+  padding: 0px;
+  padding-right: 5px;
 }
 
 a {
@@ -148,4 +150,8 @@ input[type=date], input[type="number"] {
 	border-bottom-style: solid;
 	border-bottom-width: 1px;
 	font-family: 'Helvetica';
+}
+
+#act {
+	text-decoration: underline;
 }
