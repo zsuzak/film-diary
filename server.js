@@ -1,6 +1,8 @@
 const express = require('express');
 const hbs = require('hbs')
 const fs = require('fs');
+const bodyParser = require('body-parser');
+const {check, validationResult} = require('express-validator/check');
 
 const port = process.env.PORT || 3000;
 
@@ -11,7 +13,7 @@ hbs.registerPartials(__dirname + '/views/partials');
 app.set('view-engine', 'hbs');
 
 app.use(express.static(__dirname + '/public'));
-
+app.use(bodyParser.urlencoded({extended: true}));
 
 let json;
 let record;
@@ -26,16 +28,16 @@ hbs.registerHelper('getTable', () => {
 		json = JSON.parse(data);
 	});
 
-		for (var i in json) {
-			record = json[i];
-			html += "<tr>";
-			html += `<td>${record.Watched}</td>`;
-			html += `<td>${record.Name}</td>`;
-			html += `<td>${record.Year}</td>`;
-			html += `<td>${record.Rating}</td>`;
-			html += `<td>${record.Rewatch}</td>`;
-			html += "</tr>";
-		}
+	for (var i in json) {
+		record = json[i];
+		html += "<tr>";
+		html += `<td>${record.Watched}</td>`;
+		html += `<td>${record.Name}</td>`;
+		html += `<td>${record.Year}</td>`;
+		html += `<td>${record.Rating}</td>`;
+		html += `<td>${record.Rewatch}</td>`;
+		html += "</tr>";
+	}
 	
 	html += "</tbody> </table>";
 
@@ -82,6 +84,43 @@ app.get('/2019anticipated', (req, res) => {
 
 app.get('/posts', (req, res) => {
 	res.render('posts.hbs', {pageTitle: 'ZSU Posts'});
+});
+
+app.get('/add', (req, res) => {
+	res.render('add.hbs', {pageTitle: 'ZSU Add'});
+});
+
+app.post('/add', async (req, res) => {
+	let errors = validationResult(req);
+	if(!errors.isEmpty()) {
+		console.log(errors);
+	}
+
+	console.log(`watched: ${req.body.watched} - name: ${req.body.title} - year: ${req.body.year} - rating: ${req.body.rating} - rewatch: ${req.body.rewatch}`);
+
+	let rewatch = ""
+	if (req.body.rewatch === 'yes') {
+		rewatch = "Yes";
+	}
+
+	let date = req.body.watched;
+	let dateArr = date.split("-");
+	let newDate = dateArr[2] + "/" + dateArr[1] + "/" + dateArr[0];
+
+	let title = req.body.title;
+	title = title.split(' ').map(word => word.charAt(0).toUpperCase() + word.slice(1)).join(' ');
+
+	let obj = JSON.parse(`{"Watched": "${newDate}","Name": "${title}","Year": ${req.body.year},"Rating": ${req.body.rating},"Rewatch": "${rewatch}"}`);
+	
+	await fs.readFile('data-json.json', (err, data) => {
+		let array = JSON.parse(data);
+		array.push(obj);
+		fs.writeFile('data-json.json', JSON.stringify(array), 'utf8', (err) => {
+			if (err) throw err;
+		});
+	});
+
+	res.render('add.hbs', {pageTitle: 'ZSU Add'});
 });
 
 app.listen(port, () => {

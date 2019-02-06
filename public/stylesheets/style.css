@@ -11,6 +11,7 @@ body {
     border-left-width: 0px;
 	border-right-width: 0px;
 	overflow: scroll;
+	text-align: center;
 }
 
 ::-webkit-scrollbar {
@@ -95,4 +96,56 @@ a {
 	text-decoration: none;
 	color: black;
 	margin-bottom: 25px;
+}
+
+.add {
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
+
+label, input {
+	margin-bottom: 7px;
+	text-transform: uppercase;
+}
+
+input[type=text] {
+	border: none;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;	
+}
+
+*:focus {
+    outline: none;
+}
+
+label {
+	display: inline-block;
+	text-align: left;
+	width: 80px;
+	font-size: 13px;
+}
+
+input[type=text], input[type=checkbox], input[type="number"] {
+	display: inline-block;
+	text-align: left;
+	width: 140px;
+}
+
+input[type=submit] {
+	border-style: solid;
+	border-width: 1px;
+	border-color: black;
+	background-color: white;
+}
+
+input[type=checkbox] {
+	margin: 0;
+}
+
+input[type=date], input[type="number"] {
+	border: none;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	font-family: 'Helvetica';
 }
