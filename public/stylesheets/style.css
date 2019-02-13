@@ -152,6 +152,6 @@ input[type=date], input[type="number"] {
 	font-family: 'Helvetica';
 }
 
-#act {
+.active {
 	text-decoration: underline;
 }

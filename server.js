@@ -7,9 +7,7 @@ const {check, validationResult} = require('express-validator/check');
 const port = process.env.PORT || 3000;
 
 let app = express();
-
 hbs.registerPartials(__dirname + '/views/partials');
-
 app.set('view-engine', 'hbs');
 
 app.use(express.static(__dirname + '/public'));
@@ -71,23 +69,23 @@ app.get('/', (req, res) => {
 });
 
 app.get('/watchlist', (req, res) => {
-	res.render('watchlist.hbs', {pageTitle: 'ZSU Watchlist'});
+	res.render('watchlist.hbs', {pageTitle: 'Watchlist'});
 });
 
-app.get('/2018favs', (req, res) => {
-	res.render('2018favs.hbs', {pageTitle: 'ZSU 2018 Favourites'});
+app.get('/posts/2018favs', (req, res) => {
+	res.render('2018favs.hbs', {pageTitle: '2018 Favourites'});
 });
 
-app.get('/2019anticipated', (req, res) => {
-	res.render('2019anticipated.hbs', {pageTitle: 'ZSU 2019 Anticipated'});
+app.get('/posts/2019anticipated', (req, res) => {
+	res.render('2019anticipated.hbs', {pageTitle: '2019 Anticipated'});
 });
 
 app.get('/posts', (req, res) => {
-	res.render('posts.hbs', {pageTitle: 'ZSU Posts'});
+	res.render('posts.hbs', {pageTitle: 'Posts'});
 });
 
 app.get('/add', (req, res) => {
-	res.render('add.hbs', {pageTitle: 'ZSU Add'});
+	res.render('add.hbs', {pageTitle: 'Add Diary Entry'});
 });
 
 app.post('/add', async (req, res) => {
