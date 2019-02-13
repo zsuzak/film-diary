@@ -48,20 +48,11 @@ th, td {
 	font-size: 12px;
 }
 
-img.rest {
-	float: left;
-	width: 30%;		
-	margin: 1.66%;
-}
-
 img.last {
-	float: left;
-	width: 30%;		
-	margin: 1.66%;
 	margin-bottom: 25px;
 }
 
-div {
+.imggrid {
 	margin-left: auto;
 	margin-right: auto;
 	margin-bottom: 25px;
@@ -155,3 +146,51 @@ input[type=date], input[type="number"] {
 .active {
 	text-decoration: underline;
 }
+
+.container {
+	position: relative;
+	width: 30%;
+	float: left;
+	margin: 1.66%;
+  }
+  
+  .image {
+	display: block;
+	width: 100%;
+	height: auto;
+  }
+  
+  .overlay {
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	height: 100%;
+	width: 100%;
+	opacity: 0;
+	transition: .5s ease;
+	background-color: black;
+  }
+  
+  .container:hover .overlay {
+	background-color: rgba(0, 0, 0, 0.75);
+	opacity: 1;
+  }
+  
+  .container:hover .text {
+	opacity: 1;
+  }
+  
+  .text {
+	color: white;
+	font-size: 0.9vw;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	-webkit-transform: translate(-50%, -50%);
+	-ms-transform: translate(-50%, -50%);
+	transform: translate(-50%, -50%);
+	text-align: center;
+	font-style: italic;
+  }
