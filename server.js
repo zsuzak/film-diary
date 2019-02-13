@@ -26,10 +26,7 @@ let record4;
 hbs.registerHelper('getTable', () => {
 	var html = "<table> <thead> <tr> <th>Watched</th> <th>Name</th> <th>Year</th> <th>Rating</th> <th>Rewatch</th> </tr> </thead> <tbody>";
 	
-	fs.readFile('data-json.json', (err, data) => {
-		if (err) throw err;
-		json = JSON.parse(data);
-	});
+	json = JSON.parse(fs.readFileSync('data-json.json'));
 
 	for (var i in json) {
 		record = json[i];
@@ -50,10 +47,7 @@ hbs.registerHelper('getTable', () => {
 hbs.registerHelper('getWatchlist', () => {
 	var html2 = "<table> <thead> <tr> <th>Name</th> <th>Year</th> </tr> </thead> <tbody>";
 
-	fs.readFile('watchlist-json.json', (err, data) => {
-		if (err) throw err;
-		json2 = JSON.parse(data);
-	});
+	json2 = JSON.parse(fs.readFileSync('watchlist-json.json'));
 
 	for (var j in json2) {
 		record2 = json2[j];
