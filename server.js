@@ -17,6 +17,11 @@ let json;
 let record;
 let json2;
 let record2;
+let json3;
+let record3;
+let json4;
+let record4;
+
 
 hbs.registerHelper('getTable', () => {
 	var html = "<table> <thead> <tr> <th>Watched</th> <th>Name</th> <th>Year</th> <th>Rating</th> <th>Rewatch</th> </tr> </thead> <tbody>";
@@ -63,6 +68,46 @@ hbs.registerHelper('getWatchlist', () => {
 	return html2;
 })
 
+hbs.registerHelper('getFavourites2018', () => {
+
+	json3 = JSON.parse(fs.readFileSync('favourites-2018.json'));
+	var html3 = `<div class="imggrid">`;
+
+	for (var k in json3) {
+		record3 = json3[k];
+		html3 += `<a href="${record3.link}" target="_blank">`;
+		html3 += `<div class="container">`;
+		html3 += `<img src="${record3.imgSrc}" class="image">`;
+		html3 += `<div class="overlay">`;
+		html3 += `<div class="text">`;
+		html3 += `<p>${record3.title}</p>`;
+		html3 += `</div></div></div></a>`;
+	}
+
+	html3 += `</div>`;
+	return html3;
+
+});
+
+hbs.registerHelper('getAnticipated2019', () => {
+	
+	json4 = JSON.parse(fs.readFileSync('anticipated-2019.json'));
+	var html4 = `<div class="imggrid">`;
+
+	for (var l in json4) {
+		record4 = json4[l];
+		html4 += `<a href="${record4.link}" target="_blank">`;
+		html4 += `<div class="container">`;
+		html4 += `<img src="${record4.imgSrc}" class="image">`;
+		html4 += `<div class="overlay">`;
+		html4 += `<div class="text">`;
+		html4 += `<p>${record4.title}</p>`;
+		html4 += `</div></div></div></a>`;
+	}
+
+	html4+= `</div>`
+	return html4;
+});
 
 app.get('/', (req, res) => {
 	res.render('home.hbs', {pageTitle: 'ZSU Film Diary'});

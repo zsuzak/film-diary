@@ -1,0 +1,77 @@
+[
+    {
+        "link": "https://letterboxd.com/film/thoroughbreds-2017/",
+        "imgSrc": "/images/1.jpg",
+        "title": "Thoroughbreds"
+    },
+    {
+        "link": "https://letterboxd.com/film/sicario-day-of-the-soldado/",
+        "imgSrc": "/images/2.jpg",
+        "title": "Sicario: Day of the Soldado"
+    },
+    {
+        "link": "https://letterboxd.com/film/spider-man-into-the-spider-verse/",
+        "imgSrc": "/images/4.jpg",
+        "title": "Spider-Man: Into the Spider-Verse"
+    },
+    {
+        "link": "https://letterboxd.com/film/widows-2018/",
+        "imgSrc": "/images/3.jpg",
+        "title": "Widows"
+    }, 
+    {
+        "link": "https://letterboxd.com/film/ready-player-one/",
+        "imgSrc": "/images/5.jpg",
+        "title": "Ready Player One"
+    },
+    {
+        "link": "https://letterboxd.com/film/three-colors-white/",
+        "imgSrc": "/images/6.jpg",
+        "title": "Three Colors: White"
+    },
+    {
+        "link": "https://letterboxd.com/film/there-will-be-blood/",
+        "imgSrc": "/images/7.jpg",
+        "title": "There Will Be Blood"
+    },
+    {
+        "link": "https://letterboxd.com/film/la-haine/",
+        "imgSrc": "/images/8.jpg",
+        "title": "La Haine"
+    },
+    {
+        "link": "https://letterboxd.com/film/american-honey/",
+        "imgSrc": "/images/15.jpg",
+        "title": "American Honey"
+    }, 
+    {
+        "link": "https://letterboxd.com/film/mistress-america/",
+        "imgSrc": "/images/11.jpg",
+        "title": "Mistress America"
+    },
+    {
+        "link": "https://letterboxd.com/film/monty-python-and-the-holy-grail/",
+        "imgSrc": "/images/10.jpg",
+        "title": "Monty Python and the Holy Grail"
+    }, 
+    {
+        "link": "https://letterboxd.com/film/suspiria-2018/",
+        "imgSrc": "/images/12.jpg",
+        "title": "Suspiria"
+    },
+    {
+        "link": "https://letterboxd.com/film/chungking-express/",
+        "imgSrc": "/images/13.jpg",
+        "title": "Chungking Express"
+    },
+    {
+        "link": "https://letterboxd.com/film/tangerine/",
+        "imgSrc": "/images/14.jpg",
+        "title": "Tangerine"
+    },
+    {
+        "link": "https://letterboxd.com/film/the-intouchables/",
+        "imgSrc": "/images/9.jpg",
+        "title": "The Intouchables"
+    }
+]

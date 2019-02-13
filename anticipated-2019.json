@@ -1,0 +1,47 @@
+[
+    {
+        "link": "https://letterboxd.com/film/once-upon-a-time-in-hollywood/",
+        "imgSrc": "/images/a1.jpg",
+        "title": "Once Upon A Time In Hollywood"
+    },
+    {
+        "link": "https://letterboxd.com/film/the-favourite/",
+        "imgSrc": "/images/a2.jpg",
+        "title": "The Favourite"
+    },
+    {
+        "link": "https://letterboxd.com/film/glass-2019/",
+        "imgSrc": "/images/a3.jpg",
+        "title": "Glass"
+    }, 
+    {
+        "link": "https://letterboxd.com/film/john-wick-3-parabellum/",
+        "imgSrc": "/images/a4.jpg",
+        "title": "John Wick: Chapter 3 Parabellum"
+    },
+    {
+        "link": "https://letterboxd.com/film/joker-2019/",
+        "imgSrc": "/images/a5.jpg",
+        "title": "Joker"
+    },
+    {
+        "link": "https://letterboxd.com/film/the-beach-bum/",
+        "imgSrc": "/images/a6.jpg",
+        "title": "The Beach Bum"
+    },
+    {
+        "link": "https://letterboxd.com/film/us-2019/",
+        "imgSrc": "/images/a7.jpg",
+        "title": "Us"
+    }, 
+    {
+        "link": "https://letterboxd.com/film/vice-2018/",
+        "imgSrc": "/images/a8.jpg",
+        "title": "Vice"
+    }, 
+    {
+        "link": "https://letterboxd.com/film/serenity-2019/",
+        "imgSrc": "/images/a9.jpg",
+        "title": "Serenity"
+    }
+]
