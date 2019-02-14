@@ -13,19 +13,11 @@ app.set('view-engine', 'hbs');
 app.use(express.static(__dirname + '/public'));
 app.use(bodyParser.urlencoded({extended: true}));
 
-let json;
-let record;
-let json2;
-let record2;
-let json3;
-let record3;
-let json4;
-let record4;
-
-
 hbs.registerHelper('getTable', () => {
-	var html = "<table> <thead> <tr> <th>Watched</th> <th>Name</th> <th>Year</th> <th>Rating</th> <th>Rewatch</th> </tr> </thead> <tbody>";
-	
+	let html = "<table> <thead> <tr> <th>Watched</th> <th>Name</th> <th>Year</th> <th>Rating</th> <th>Rewatch</th> </tr> </thead> <tbody>";
+	let json;
+	let record;
+
 	json = JSON.parse(fs.readFileSync('data-json.json'));
 
 	for (var i in json) {
@@ -45,7 +37,9 @@ hbs.registerHelper('getTable', () => {
 });
 
 hbs.registerHelper('getWatchlist', () => {
-	var html2 = "<table> <thead> <tr> <th>Name</th> <th>Year</th> </tr> </thead> <tbody>";
+	let html2 = "<table> <thead> <tr> <th>Name</th> <th>Year</th> </tr> </thead> <tbody>";
+	let json2;
+	let record2;
 
 	json2 = JSON.parse(fs.readFileSync('watchlist-json.json'));
 
@@ -63,9 +57,11 @@ hbs.registerHelper('getWatchlist', () => {
 })
 
 hbs.registerHelper('getFavourites2018', () => {
+	let html3 = `<div class="imggrid">`;
+	let json3;
+	let record3;
 
 	json3 = JSON.parse(fs.readFileSync('favourites-2018.json'));
-	var html3 = `<div class="imggrid">`;
 
 	for (var k in json3) {
 		record3 = json3[k];
@@ -84,9 +80,11 @@ hbs.registerHelper('getFavourites2018', () => {
 });
 
 hbs.registerHelper('getAnticipated2019', () => {
+	let html4 = `<div class="imggrid">`;
+	let json4;
+	let record4;
 	
 	json4 = JSON.parse(fs.readFileSync('anticipated-2019.json'));
-	var html4 = `<div class="imggrid">`;
 
 	for (var l in json4) {
 		record4 = json4[l];
@@ -157,7 +155,7 @@ app.post('/add', async (req, res) => {
 		});
 	});
 
-	res.render('add.hbs', {pageTitle: 'ZSU Add'});
+	res.render('add.hbs', {pageTitle: 'Add Diary Entry'});
 });
 
 app.listen(port, () => {
